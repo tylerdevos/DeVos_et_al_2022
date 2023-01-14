@@ -1,0 +1,1 @@
+__Citation:__ DeVos, T.B., L.S. Corcoran, D.M. Kalb, and S.W. Buchanan. 2022. Quantification of infection prevalence in a multi-species snake community following detection of the first confirmed case of ophidiomycosis in Rhode Island, USA. Herpetological Review 53(2):227-230.
